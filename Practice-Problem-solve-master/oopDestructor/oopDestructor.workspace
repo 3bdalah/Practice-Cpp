@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="oopDestructor" Database="" Version="10.0.0">
+  <Project Name="destructor" Path="destructor/destructor.project" Active="No"/>
+  <Project Name="arithmetic" Path="arithmetic/arithmetic.project" Active="No"/>
+  <Project Name="changeMoney" Path="changeMoney/changeMoney.project" Active="No"/>
+  <Project Name="sectionquize" Path="sectionquize/sectionquize.project" Active="No"/>
+  <Project Name="volumcylinder" Path="volumcylinder/volumcylinder.project" Active="No"/>
+  <Project Name="convertFeetToMeters" Path="convertFeetToMeters/convertFeetToMeters.project" Active="No"/>
+  <Project Name="convertkoliegramtobound" Path="convertkoliegramtobound/convertkoliegramtobound.project" Active="No"/>
+  <Project Name="Financial" Path="Financial/Financial.project" Active="No"/>
+  <Project Name="digites" Path="digites/digites.project" Active="No"/>
+  <Project Name="numberYears" Path="numberYears/numberYears.project" Active="No"/>
+  <Project Name="Averageacceleration" Path="time/time.project" Active="No"/>
+  <Project Name="science" Path="science/science.project" Active="No"/>
+  <Project Name="increases" Path="increases/increases.project" Active="No"/>
+  <Project Name="BMI" Path="BMI/BMI.project" Active="No"/>
+  <Project Name="FederalPersonalTaxRate" Path="FederalPersonalTaxRate/FederalPersonalTaxRate.project" Active="No"/>
+  <Project Name="quize" Path="quize/quize.project" Active="No"/>
+  <Project Name="Randome" Path="test/test.project" Active="No"/>
+  <Project Name="lottery" Path="lottery/lottery.project" Active="No"/>
+  <Project Name="seletion" Path="seletion/seletion.project" Active="No"/>
+  <Project Name="section3" Path="section3/section3.project" Active="No"/>
+  <Project Name="checknumber" Path="checknumber/checknumber.project" Active="No"/>
+  <Project Name="linearEquation" Path="linearEquation/linearEquation.project" Active="No"/>
+  <Project Name="findFutureDates" Path="findFutureDates/findFutureDates.project" Active="No"/>
+  <Project Name="healthApplication" Path="healthApplication/healthApplication.project" Active="No"/>
+  <Project Name="sortNumber" Path="sortNumber/sortNumber.project" Active="No"/>
+  <Project Name="FindNumberDayMonth" Path="FindNumberDayMonth/FindNumberDayMonth.project" Active="No"/>
+  <Project Name="CostShipping" Path="CostShipping/CostShipping.project" Active="No"/>
+  <Project Name="headAndteils" Path="headAndteils/headAndteils.project" Active="No"/>
+  <Project Name="gmaelottery" Path="gmaelottery/gmaelottery.project" Active="No"/>
+  <Project Name="GameScissorPaperRock" Path="GameScissorPaperRock/GameScissorPaperRock.project" Active="No"/>
+  <Project Name="WindChillTemperature" Path="WindChillTemperature/WindChillTemperature.project" Active="No"/>
+  <Project Name="GamAddiationNumbers" Path="GamAddiationNumbers/GamAddiationNumbers.project" Active="No"/>
+  <Project Name="PointPosition" Path="PointPosition/PointPosition.project" Active="No"/>
+  <Project Name="computAngeles" Path="CompareCosts/CompareCosts.project" Active="No"/>
+  <Project Name="GetCode" Path="test2/test2.project" Active="No"/>
+  <Project Name="DisplayRandomeCharacter" Path="DisplayRandomeCharacter/DisplayRandomeCharacter.project" Active="No"/>
+  <Project Name="getlowerAndUpperCode" Path="lowercaseToUppercase/lowercaseToUppercase.project" Active="No"/>
+  <Project Name="charcterFunction" Path="charcterFunction/charcterFunction.project" Active="No"/>
+  <Project Name="hexDigit" Path="hexDigit/hexDigit.project" Active="No"/>
+  <Project Name="stringFunction" Path="String/String.project" Active="No"/>
+  <Project Name="readstring" Path="readstring/readstring.project" Active="No"/>
+  <Project Name="lotteryUsingString" Path="lotteryUsingString/lotteryUsingString.project" Active="No"/>
+  <Project Name="FormatConsoleOutput" Path="FormatConsoleOutput/FormatConsoleOutput.project" Active="No"/>
+  <Project Name="setwidth" Path="setwidth/setwidth.project" Active="No"/>
+  <Project Name="ofstream" Path="ofstream/ofstream.project" Active="No"/>
+  <Project Name="simplefileinput" Path="simplefileinput/simplefileinput.project" Active="No"/>
+  <Project Name="greatecircledistance" Path="greatecircledistance/greatecircledistance.project" Active="No"/>
+  <Project Name="ConvertCodetoChar" Path="ConvertCodetoChar/ConvertCodetoChar.project" Active="No"/>
+  <Project Name="phonekeypads" Path="phonekeypads/phonekeypads.project" Active="No"/>
+  <Project Name="randomecode" Path="randomecode/randomecode.project" Active="No"/>
+  <Project Name="OrderThreeCity" Path="OrderThreeCity/OrderThreeCity.project" Active="No"/>
+  <Project Name="StudentMajorAndstatus " Path="StudentMajorAndstatus /StudentMajorAndstatus .project" Active="No"/>
+  <Project Name="reapetQuize" Path="reapetQuize/reapetQuize.project" Active="No"/>
+  <Project Name="GuessNumberOneTime" Path="GuessNumberOneTime/GuessNumberOneTime.project" Active="No"/>
+  <Project Name="subtractionquizeloop" Path="subtractionquizeloop/subtractionquizeloop.project" Active="No"/>
+  <Project Name="sentialvalue" Path="sentialvalue/sentialvalue.project" Active="No"/>
+  <Project Name="readalldata" Path="readalldata/readalldata.project" Active="No"/>
+  <Project Name="MultiAplicationTable" Path="MultiAplicationTable/MultiAplicationTable.project" Active="No"/>
+  <Project Name="timeLoop" Path="testloops/testloops.project" Active="No"/>
+  <Project Name="ShapeCpp" Path="ShapeCpp/ShapeCpp.project" Active="No"/>
+  <Project Name="testsum" Path="testsum/testsum.project" Active="No"/>
+  <Project Name="GreatestCommendDivision" Path="GreatestCommendDivision/GreatestCommendDivision.project" Active="No"/>
+  <Project Name="predicitingfuture" Path="predicitingfuture/predicitingfuture.project" Active="No"/>
+  <Project Name="PrimeNumber" Path="PrimeNumber/PrimeNumber.project" Active="No"/>
+  <Project Name="countpositiveAndnegative" Path="countpositiveAndnegative/countpositiveAndnegative.project" Active="No"/>
+  <Project Name="convertkilogramstopounds" Path="convertkilogramstopounds/convertkilogramstopounds.project" Active="No"/>
+  <Project Name="convertmiletokilo" Path="convertmiletokilo/convertmiletokilo.project" Active="No"/>
+  <Project Name="usesrqrtfunction" Path="convertkilotopoundandpoundtokilo/convertkilotopoundandpoundtokilo.project" Active="No"/>
+  <Project Name="computefuturetuition" Path="computefuturetuition/computefuturetuition.project" Active="No"/>
+  <Project Name="getheightscore" Path="getheightscore/getheightscore.project" Active="No"/>
+  <Project Name="displyespyremides" Path="displyespyremides/displyespyremides.project" Active="No"/>
+  <Project Name="finanicelapllicationcomparingloanrate" Path="finanicelapllicationcomparingloanrate/finanicelapllicationcomparingloanrate.project" Active="No"/>
+  <Project Name="sumSaries" Path="sumSaries/sumSaries.project" Active="No"/>
+  <Project Name="student" Path="student/student.project" Active="No"/>
+  <Project Name="functionCall" Path="functionCall/functionCall.project" Active="No"/>
+  <Project Name="printGrade" Path="printGrade/printGrade.project" Active="No"/>
+  <Project Name="anytimes" Path="anytimes/anytimes.project" Active="No"/>
+  <Project Name="PrimeNumberFunction" Path="PrimeNumberFunction/PrimeNumberFunction.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="destructor" ConfigName="Debug"/>
+      <Project Name="arithmetic" ConfigName="Debug"/>
+      <Project Name="changeMoney" ConfigName="Debug"/>
+      <Project Name="sectionquize" ConfigName="Debug"/>
+      <Project Name="volumcylinder" ConfigName="Debug"/>
+      <Project Name="convertFeetToMeters" ConfigName="Debug"/>
+      <Project Name="convertkoliegramtobound" ConfigName="Debug"/>
+      <Project Name="Financial" ConfigName="Debug"/>
+      <Project Name="digites" ConfigName="Debug"/>
+      <Project Name="numberYears" ConfigName="Debug"/>
+      <Project Name="Averageacceleration" ConfigName="Debug"/>
+      <Project Name="science" ConfigName="Debug"/>
+      <Project Name="increases" ConfigName="Debug"/>
+      <Project Name="BMI" ConfigName="Debug"/>
+      <Project Name="FederalPersonalTaxRate" ConfigName="Debug"/>
+      <Project Name="quize" ConfigName="Debug"/>
+      <Project Name="Randome" ConfigName="Debug"/>
+      <Project Name="lottery" ConfigName="Debug"/>
+      <Project Name="seletion" ConfigName="Debug"/>
+      <Project Name="section3" ConfigName="Debug"/>
+      <Project Name="checknumber" ConfigName="Debug"/>
+      <Project Name="linearEquation" ConfigName="Debug"/>
+      <Project Name="findFutureDates" ConfigName="Debug"/>
+      <Project Name="healthApplication" ConfigName="Debug"/>
+      <Project Name="sortNumber" ConfigName="Debug"/>
+      <Project Name="FindNumberDayMonth" ConfigName="Debug"/>
+      <Project Name="CostShipping" ConfigName="Debug"/>
+      <Project Name="headAndteils" ConfigName="Debug"/>
+      <Project Name="gmaelottery" ConfigName="Debug"/>
+      <Project Name="GameScissorPaperRock" ConfigName="Debug"/>
+      <Project Name="WindChillTemperature" ConfigName="Debug"/>
+      <Project Name="GamAddiationNumbers" ConfigName="Debug"/>
+      <Project Name="PointPosition" ConfigName="Debug"/>
+      <Project Name="computAngeles" ConfigName="Debug"/>
+      <Project Name="GetCode" ConfigName="Debug"/>
+      <Project Name="DisplayRandomeCharacter" ConfigName="Debug"/>
+      <Project Name="getlowerAndUpperCode" ConfigName="Debug"/>
+      <Project Name="charcterFunction" ConfigName="Debug"/>
+      <Project Name="hexDigit" ConfigName="Debug"/>
+      <Project Name="stringFunction" ConfigName="Debug"/>
+      <Project Name="readstring" ConfigName="Debug"/>
+      <Project Name="lotteryUsingString" ConfigName="Debug"/>
+      <Project Name="FormatConsoleOutput" ConfigName="Debug"/>
+      <Project Name="setwidth" ConfigName="Debug"/>
+      <Project Name="ofstream" ConfigName="Debug"/>
+      <Project Name="simplefileinput" ConfigName="Debug"/>
+      <Project Name="greatecircledistance" ConfigName="Debug"/>
+      <Project Name="ConvertCodetoChar" ConfigName="Debug"/>
+      <Project Name="phonekeypads" ConfigName="Debug"/>
+      <Project Name="randomecode" ConfigName="Debug"/>
+      <Project Name="OrderThreeCity" ConfigName="Debug"/>
+      <Project Name="StudentMajorAndstatus " ConfigName="Debug"/>
+      <Project Name="reapetQuize" ConfigName="Debug"/>
+      <Project Name="GuessNumberOneTime" ConfigName="Debug"/>
+      <Project Name="subtractionquizeloop" ConfigName="Debug"/>
+      <Project Name="sentialvalue" ConfigName="Debug"/>
+      <Project Name="readalldata" ConfigName="Debug"/>
+      <Project Name="MultiAplicationTable" ConfigName="Debug"/>
+      <Project Name="timeLoop" ConfigName="Debug"/>
+      <Project Name="ShapeCpp" ConfigName="Debug"/>
+      <Project Name="testsum" ConfigName="Debug"/>
+      <Project Name="GreatestCommendDivision" ConfigName="Debug"/>
+      <Project Name="predicitingfuture" ConfigName="Debug"/>
+      <Project Name="PrimeNumber" ConfigName="Debug"/>
+      <Project Name="countpositiveAndnegative" ConfigName="Debug"/>
+      <Project Name="convertkilogramstopounds" ConfigName="Debug"/>
+      <Project Name="convertmiletokilo" ConfigName="Debug"/>
+      <Project Name="usesrqrtfunction" ConfigName="Debug"/>
+      <Project Name="computefuturetuition" ConfigName="Debug"/>
+      <Project Name="getheightscore" ConfigName="Debug"/>
+      <Project Name="displyespyremides" ConfigName="Debug"/>
+      <Project Name="finanicelapllicationcomparingloanrate" ConfigName="Debug"/>
+      <Project Name="sumSaries" ConfigName="Debug"/>
+      <Project Name="student" ConfigName="Debug"/>
+      <Project Name="functionCall" ConfigName="Debug"/>
+      <Project Name="printGrade" ConfigName="Debug"/>
+      <Project Name="anytimes" ConfigName="Debug"/>
+      <Project Name="PrimeNumberFunction" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="destructor" ConfigName="Release"/>
+      <Project Name="arithmetic" ConfigName="Release"/>
+      <Project Name="changeMoney" ConfigName="Release"/>
+      <Project Name="sectionquize" ConfigName="Release"/>
+      <Project Name="volumcylinder" ConfigName="Release"/>
+      <Project Name="convertFeetToMeters" ConfigName="Release"/>
+      <Project Name="convertkoliegramtobound" ConfigName="Release"/>
+      <Project Name="Financial" ConfigName="Release"/>
+      <Project Name="digites" ConfigName="Release"/>
+      <Project Name="numberYears" ConfigName="Release"/>
+      <Project Name="Averageacceleration" ConfigName="Release"/>
+      <Project Name="science" ConfigName="Release"/>
+      <Project Name="increases" ConfigName="Release"/>
+      <Project Name="BMI" ConfigName="Release"/>
+      <Project Name="FederalPersonalTaxRate" ConfigName="Release"/>
+      <Project Name="quize" ConfigName="Release"/>
+      <Project Name="Randome" ConfigName="Release"/>
+      <Project Name="lottery" ConfigName="Release"/>
+      <Project Name="seletion" ConfigName="Release"/>
+      <Project Name="section3" ConfigName="Release"/>
+      <Project Name="checknumber" ConfigName="Release"/>
+      <Project Name="linearEquation" ConfigName="Release"/>
+      <Project Name="findFutureDates" ConfigName="Release"/>
+      <Project Name="healthApplication" ConfigName="Release"/>
+      <Project Name="sortNumber" ConfigName="Release"/>
+      <Project Name="FindNumberDayMonth" ConfigName="Release"/>
+      <Project Name="CostShipping" ConfigName="Release"/>
+      <Project Name="headAndteils" ConfigName="Release"/>
+      <Project Name="gmaelottery" ConfigName="Release"/>
+      <Project Name="GameScissorPaperRock" ConfigName="Release"/>
+      <Project Name="WindChillTemperature" ConfigName="Release"/>
+      <Project Name="GamAddiationNumbers" ConfigName="Release"/>
+      <Project Name="PointPosition" ConfigName="Release"/>
+      <Project Name="computAngeles" ConfigName="Release"/>
+      <Project Name="GetCode" ConfigName="Release"/>
+      <Project Name="DisplayRandomeCharacter" ConfigName="Release"/>
+      <Project Name="getlowerAndUpperCode" ConfigName="Release"/>
+      <Project Name="charcterFunction" ConfigName="Release"/>
+      <Project Name="hexDigit" ConfigName="Release"/>
+      <Project Name="stringFunction" ConfigName="Release"/>
+      <Project Name="readstring" ConfigName="Release"/>
+      <Project Name="lotteryUsingString" ConfigName="Release"/>
+      <Project Name="FormatConsoleOutput" ConfigName="Release"/>
+      <Project Name="setwidth" ConfigName="Release"/>
+      <Project Name="ofstream" ConfigName="Release"/>
+      <Project Name="simplefileinput" ConfigName="Release"/>
+      <Project Name="greatecircledistance" ConfigName="Release"/>
+      <Project Name="ConvertCodetoChar" ConfigName="Release"/>
+      <Project Name="phonekeypads" ConfigName="Release"/>
+      <Project Name="randomecode" ConfigName="Release"/>
+      <Project Name="OrderThreeCity" ConfigName="Release"/>
+      <Project Name="StudentMajorAndstatus " ConfigName="Release"/>
+      <Project Name="reapetQuize" ConfigName="Release"/>
+      <Project Name="GuessNumberOneTime" ConfigName="Release"/>
+      <Project Name="subtractionquizeloop" ConfigName="Release"/>
+      <Project Name="sentialvalue" ConfigName="Release"/>
+      <Project Name="readalldata" ConfigName="Release"/>
+      <Project Name="MultiAplicationTable" ConfigName="Release"/>
+      <Project Name="timeLoop" ConfigName="Release"/>
+      <Project Name="ShapeCpp" ConfigName="Release"/>
+      <Project Name="testsum" ConfigName="Release"/>
+      <Project Name="GreatestCommendDivision" ConfigName="Release"/>
+      <Project Name="predicitingfuture" ConfigName="Release"/>
+      <Project Name="PrimeNumber" ConfigName="Release"/>
+      <Project Name="countpositiveAndnegative" ConfigName="Release"/>
+      <Project Name="convertkilogramstopounds" ConfigName="Release"/>
+      <Project Name="convertmiletokilo" ConfigName="Release"/>
+      <Project Name="usesrqrtfunction" ConfigName="Release"/>
+      <Project Name="computefuturetuition" ConfigName="Release"/>
+      <Project Name="getheightscore" ConfigName="Release"/>
+      <Project Name="displyespyremides" ConfigName="Release"/>
+      <Project Name="finanicelapllicationcomparingloanrate" ConfigName="Release"/>
+      <Project Name="sumSaries" ConfigName="Release"/>
+      <Project Name="student" ConfigName="Release"/>
+      <Project Name="functionCall" ConfigName="Release"/>
+      <Project Name="printGrade" ConfigName="Release"/>
+      <Project Name="anytimes" ConfigName="Release"/>
+      <Project Name="PrimeNumberFunction" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

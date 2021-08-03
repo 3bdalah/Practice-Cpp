@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="HackerRank" Database="" Version="10.0.0">
+  <Project Name="SumArrayElements" Path="SumArrayElements/SumArrayElements.project" Active="No"/>
+  <Project Name="ComparetheTriplets" Path="ComparetheTriplets/ComparetheTriplets.project" Active="No"/>
+  <Project Name="averyBigsum" Path="averyBigsum/averyBigsum.project" Active="No"/>
+  <Project Name="DiagonalDifferenc" Path="DiagonalDifferenc/DiagonalDifferenc.project" Active="No"/>
+  <Project Name="money" Path="money/money.project" Active="No"/>
+  <Project Name="boo" Path="boo/boo.project" Active="No"/>
+  <Project Name="Canyousortthem" Path="Canyousortthem/Canyousortthem.project" Active="No"/>
+  <Project Name="loan " Path="loan /loan .project" Active="No"/>
+  <Project Name="fan" Path="fan/fan.project" Active="No"/>
+  <Project Name="time" Path="time/time.project" Active="No"/>
+  <Project Name="replacestring" Path="replacestring/replacestring.project" Active="No"/>
+  <Project Name="circlepassvalueobjects" Path="circlepassvalueobjects/circlepassvalueobjects.project" Active="No"/>
+  <Project Name="insertname" Path="insertname/insertname.project" Active="No"/>
+  <Project Name="team" Path="team/team.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="SumArrayElements" ConfigName="Debug"/>
+      <Project Name="ComparetheTriplets" ConfigName="Debug"/>
+      <Project Name="averyBigsum" ConfigName="Debug"/>
+      <Project Name="DiagonalDifferenc" ConfigName="Debug"/>
+      <Project Name="money" ConfigName="Debug"/>
+      <Project Name="boo" ConfigName="Debug"/>
+      <Project Name="Canyousortthem" ConfigName="Debug"/>
+      <Project Name="loan " ConfigName="Debug"/>
+      <Project Name="fan" ConfigName="Debug"/>
+      <Project Name="time" ConfigName="Debug"/>
+      <Project Name="replacestring" ConfigName="Debug"/>
+      <Project Name="circlepassvalueobjects" ConfigName="Debug"/>
+      <Project Name="insertname" ConfigName="Debug"/>
+      <Project Name="team" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="SumArrayElements" ConfigName="Release"/>
+      <Project Name="ComparetheTriplets" ConfigName="Release"/>
+      <Project Name="averyBigsum" ConfigName="Release"/>
+      <Project Name="DiagonalDifferenc" ConfigName="Release"/>
+      <Project Name="money" ConfigName="Release"/>
+      <Project Name="boo" ConfigName="Release"/>
+      <Project Name="Canyousortthem" ConfigName="Release"/>
+      <Project Name="loan " ConfigName="Release"/>
+      <Project Name="fan" ConfigName="Release"/>
+      <Project Name="time" ConfigName="Release"/>
+      <Project Name="replacestring" ConfigName="Release"/>
+      <Project Name="circlepassvalueobjects" ConfigName="Release"/>
+      <Project Name="insertname" ConfigName="Release"/>
+      <Project Name="team" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

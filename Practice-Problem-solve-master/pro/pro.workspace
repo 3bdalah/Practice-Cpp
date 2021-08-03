@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="pro" Database="" Version="10.0.0">
+  <WorkspaceParserMacros/>
+  <WorkspaceParserPaths/>
+  <Project Name="hhh" Path="hhh/hhh.project" Active="Yes"/>
+  <Project Name="kkk" Path="kkk/kkk.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="hhh" ConfigName="Debug"/>
+      <Project Name="kkk" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="hhh" ConfigName="Release"/>
+      <Project Name="kkk" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

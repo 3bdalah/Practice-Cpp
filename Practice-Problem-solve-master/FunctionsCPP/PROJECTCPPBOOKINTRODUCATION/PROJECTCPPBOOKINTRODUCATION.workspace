@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PROJECTCPPBOOKINTRODUCATION" Database="" Version="10.0.0">
+  <Project Name="TestFunctionPrototype" Path="TestFunctionPrototype/TestFunctionPrototype.project" Active="No"/>
+  <Project Name="defaultargument" Path="defaultargument/defaultargument.project" Active="No"/>
+  <Project Name="inliefunction" Path="inliefunction/inliefunction.project" Active="No"/>
+  <Project Name="testreferncevarible" Path="testreferncevarible/testreferncevarible.project" Active="No"/>
+  <Project Name="referencparmeter" Path="referencparmeter/referencparmeter.project" Active="No"/>
+  <Project Name="worngprogramming" Path="worngprogramming/worngprogramming.project" Active="No"/>
+  <Project Name="showoutput" Path="showoutput/showoutput.project" Active="No"/>
+  <Project Name="checkworng" Path="checkworng/checkworng.project" Active="No"/>
+  <Project Name="constparemeters" Path="constparemeters/constparemeters.project" Active="No"/>
+  <Project Name="hexTwodecim" Path="hexTwodecim/hexTwodecim.project" Active="No"/>
+  <Project Name="graphic" Path="graphic/graphic.project" Active="No"/>
+  <Project Name="printClander" Path="printClander/printClander.project" Active="No"/>
+  <Project Name="ispantegolnumber" Path="ispantegolnumber/ispantegolnumber.project" Active="No"/>
+  <Project Name="sumdigitsnumber" Path="sumdigitsnumber/sumdigitsnumber.project" Active="No"/>
+  <Project Name="reversevectore" Path="testdevisio/testdevisio.project" Active="No"/>
+  <Project Name="sortnumber" Path="sortnumber/sortnumber.project" Active="No"/>
+  <Project Name="displaypatterns" Path="displaypatterns/displaypatterns.project" Active="No"/>
+  <Project Name="displaypatterntwo" Path="displaypatterntwo/displaypatterntwo.project" Active="No"/>
+  <Project Name="displaypatternthird" Path="displaypatternthird/displaypatternthird.project" Active="No"/>
+  <Project Name="investfuture" Path="investfuture/investfuture.project" Active="Yes"/>
+  <Project Name="numberofdaysofyears" Path="numberofdaysofyears/numberofdaysofyears.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TestFunctionPrototype" ConfigName="Debug"/>
+      <Project Name="defaultargument" ConfigName="Debug"/>
+      <Project Name="inliefunction" ConfigName="Debug"/>
+      <Project Name="testreferncevarible" ConfigName="Debug"/>
+      <Project Name="referencparmeter" ConfigName="Debug"/>
+      <Project Name="worngprogramming" ConfigName="Debug"/>
+      <Project Name="showoutput" ConfigName="Debug"/>
+      <Project Name="checkworng" ConfigName="Debug"/>
+      <Project Name="constparemeters" ConfigName="Debug"/>
+      <Project Name="hexTwodecim" ConfigName="Debug"/>
+      <Project Name="graphic" ConfigName="Debug"/>
+      <Project Name="printClander" ConfigName="Debug"/>
+      <Project Name="ispantegolnumber" ConfigName="Debug"/>
+      <Project Name="sumdigitsnumber" ConfigName="Debug"/>
+      <Project Name="reversevectore" ConfigName="Debug"/>
+      <Project Name="sortnumber" ConfigName="Debug"/>
+      <Project Name="displaypatterns" ConfigName="Debug"/>
+      <Project Name="displaypatterntwo" ConfigName="Debug"/>
+      <Project Name="displaypatternthird" ConfigName="Debug"/>
+      <Project Name="investfuture" ConfigName="Debug"/>
+      <Project Name="numberofdaysofyears" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TestFunctionPrototype" ConfigName="Release"/>
+      <Project Name="defaultargument" ConfigName="Release"/>
+      <Project Name="inliefunction" ConfigName="Release"/>
+      <Project Name="testreferncevarible" ConfigName="Release"/>
+      <Project Name="referencparmeter" ConfigName="Release"/>
+      <Project Name="worngprogramming" ConfigName="Release"/>
+      <Project Name="showoutput" ConfigName="Release"/>
+      <Project Name="checkworng" ConfigName="Release"/>
+      <Project Name="constparemeters" ConfigName="Release"/>
+      <Project Name="hexTwodecim" ConfigName="Release"/>
+      <Project Name="graphic" ConfigName="Release"/>
+      <Project Name="printClander" ConfigName="Release"/>
+      <Project Name="ispantegolnumber" ConfigName="Release"/>
+      <Project Name="sumdigitsnumber" ConfigName="Release"/>
+      <Project Name="reversevectore" ConfigName="Release"/>
+      <Project Name="sortnumber" ConfigName="Release"/>
+      <Project Name="displaypatterns" ConfigName="Release"/>
+      <Project Name="displaypatterntwo" ConfigName="Release"/>
+      <Project Name="displaypatternthird" ConfigName="Release"/>
+      <Project Name="investfuture" ConfigName="Release"/>
+      <Project Name="numberofdaysofyears" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

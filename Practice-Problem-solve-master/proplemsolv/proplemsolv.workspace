@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="proplemsolv" Database="" Version="10.0.0">
+  <Project Name="beautifulMatrix" Path="beautifulMatrix/beautifulMatrix.project" Active="No"/>
+  <Project Name="grafity" Path="grafity/grafity.project" Active="No"/>
+  <Project Name="petyaAndstring" Path="petyaAndstring/petyaAndstring.project" Active="No"/>
+  <Project Name="BoyOrGirl" Path="BoyOrGirl/BoyOrGirl.project" Active="No"/>
+  <Project Name="word" Path="word/word.project" Active="No"/>
+  <Project Name="magnets" Path="magnets/magnets.project" Active="No"/>
+  <Project Name="SerejaDima" Path="SerejaDima/SerejaDima.project" Active="No"/>
+  <Project Name="StonesOnTheTable" Path="StonesOnTheTable/StonesOnTheTable.project" Active="No"/>
+  <Project Name="policeofficer" Path="policeofficer/policeofficer.project" Active="No"/>
+  <Project Name="blacksquare" Path="blacksquare/blacksquare.project" Active="No"/>
+  <Project Name="nanightmusem" Path="nanightmusem/nanightmusem.project" Active="No"/>
+  <Project Name="anight" Path="anight/anight.project" Active="No"/>
+  <Project Name="games" Path="games/games.project" Active="No"/>
+  <Project Name="Bbuttons" Path="Bbuttons/Bbuttons.project" Active="No"/>
+  <Project Name="buyashovel" Path="buyashovel/buyashovel.project" Active="No"/>
+  <Project Name="bestfrindofman" Path="bestfrindofman/bestfrindofman.project" Active="No"/>
+  <Project Name="moneymoney" Path="moneymoney/moneymoney.project" Active="No"/>
+  <Project Name="sortthem" Path="sortthem/sortthem.project" Active="No"/>
+  <Project Name="alibaba" Path="alibaba/alibaba.project" Active="No"/>
+  <Project Name="powernumbertwo" Path="powernumbertwo/powernumbertwo.project" Active="No"/>
+  <Project Name="helppoppy" Path="helppoppy/helppoppy.project" Active="No"/>
+  <Project Name="plusminus" Path="plusminus/plusminus.project" Active="No"/>
+  <Project Name="Staircase" Path="Staircase/Staircase.project" Active="No"/>
+  <Project Name="MinandMax" Path="minmumandmaxnum/minmumandmaxnum.project" Active="No"/>
+  <Project Name="inhourse" Path="inhourse/inhourse.project" Active="No"/>
+  <Project Name="scoring" Path="scoring/scoring.project" Active="No"/>
+  <Project Name="jusier" Path="jusier/jusier.project" Active="No"/>
+  <Project Name="CarrotCakes" Path="CarrotCakes/CarrotCakes.project" Active="No"/>
+  <Project Name="text" Path="text/text.project" Active="No"/>
+  <Project Name="waytoolongwords" Path="waytoolongwords/waytoolongwords.project" Active="No"/>
+  <Project Name="set" Path="set/set.project" Active="No"/>
+  <Project Name="stack" Path="stack/stack.project" Active="No"/>
+  <Project Name="pointer" Path="pointer/pointer.project" Active="No"/>
+  <Project Name="marlineandaddress" Path="marlineandaddress/marlineandaddress.project" Active="No"/>
+  <Project Name="guesswhat" Path="guesswhat/guesswhat.project" Active="No"/>
+  <Project Name="canides" Path="canides/canides.project" Active="No"/>
+  <Project Name="password" Path="password/password.project" Active="No"/>
+  <Project Name="intersetingshapes" Path="intersetingshapes/intersetingshapes.project" Active="No"/>
+  <Project Name="marbels" Path="marbels/marbels.project" Active="No"/>
+  <Project Name="compareing" Path="compareing/compareing.project" Active="No"/>
+  <Project Name="citesmails" Path="citesmails/citesmails.project" Active="No"/>
+  <Project Name="mohamoudandlongestuncommon" Path="mohamoudandlongestuncommon/mohamoudandlongestuncommon.project" Active="No"/>
+  <Project Name="oathnightwatch" Path="oathnightwatch/oathnightwatch.project" Active="No"/>
+  <Project Name="pangrams" Path="pangrams/pangrams.project" Active="No"/>
+  <Project Name="quizenumber" Path="changecolor/changecolor.project" Active="No"/>
+  <Project Name="dynamicarraypointer" Path="dynamicarraypointer/dynamicarraypointer.project" Active="No"/>
+  <Project Name="evenodd" Path="evenodd/evenodd.project" Active="No"/>
+  <Project Name="iwannabethe" Path="iwannabethe/iwannabethe.project" Active="No"/>
+  <Project Name="israted" Path="israted/israted.project" Active="No"/>
+  <Project Name="olysaandroiden" Path="olysaandroiden/olysaandroiden.project" Active="No"/>
+  <Project Name="numbershape" Path="numbershape/numbershape.project" Active="No"/>
+  <Project Name="ABrainsPhotos" Path="ABrainsPhotos/ABrainsPhotos.project" Active="No"/>
+  <Project Name="Dubstep" Path="Dubstep/Dubstep.project" Active="No"/>
+  <Project Name="valeraAndX" Path="valeraAndX/valeraAndX.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="beautifulMatrix" ConfigName="Debug"/>
+      <Project Name="grafity" ConfigName="Debug"/>
+      <Project Name="petyaAndstring" ConfigName="Debug"/>
+      <Project Name="BoyOrGirl" ConfigName="Debug"/>
+      <Project Name="word" ConfigName="Debug"/>
+      <Project Name="magnets" ConfigName="Debug"/>
+      <Project Name="SerejaDima" ConfigName="Debug"/>
+      <Project Name="StonesOnTheTable" ConfigName="Debug"/>
+      <Project Name="policeofficer" ConfigName="Debug"/>
+      <Project Name="blacksquare" ConfigName="Debug"/>
+      <Project Name="nanightmusem" ConfigName="Debug"/>
+      <Project Name="anight" ConfigName="Debug"/>
+      <Project Name="games" ConfigName="Debug"/>
+      <Project Name="Bbuttons" ConfigName="Debug"/>
+      <Project Name="buyashovel" ConfigName="Debug"/>
+      <Project Name="bestfrindofman" ConfigName="Debug"/>
+      <Project Name="moneymoney" ConfigName="Debug"/>
+      <Project Name="sortthem" ConfigName="Debug"/>
+      <Project Name="alibaba" ConfigName="Debug"/>
+      <Project Name="powernumbertwo" ConfigName="Debug"/>
+      <Project Name="helppoppy" ConfigName="Debug"/>
+      <Project Name="plusminus" ConfigName="Debug"/>
+      <Project Name="Staircase" ConfigName="Debug"/>
+      <Project Name="MinandMax" ConfigName="Debug"/>
+      <Project Name="inhourse" ConfigName="Debug"/>
+      <Project Name="scoring" ConfigName="Debug"/>
+      <Project Name="jusier" ConfigName="Debug"/>
+      <Project Name="CarrotCakes" ConfigName="Debug"/>
+      <Project Name="text" ConfigName="Debug"/>
+      <Project Name="waytoolongwords" ConfigName="Debug"/>
+      <Project Name="set" ConfigName="Debug"/>
+      <Project Name="stack" ConfigName="Debug"/>
+      <Project Name="pointer" ConfigName="Debug"/>
+      <Project Name="marlineandaddress" ConfigName="Debug"/>
+      <Project Name="guesswhat" ConfigName="Debug"/>
+      <Project Name="canides" ConfigName="Debug"/>
+      <Project Name="password" ConfigName="Debug"/>
+      <Project Name="intersetingshapes" ConfigName="Debug"/>
+      <Project Name="marbels" ConfigName="Debug"/>
+      <Project Name="compareing" ConfigName="Debug"/>
+      <Project Name="citesmails" ConfigName="Debug"/>
+      <Project Name="mohamoudandlongestuncommon" ConfigName="Debug"/>
+      <Project Name="oathnightwatch" ConfigName="Debug"/>
+      <Project Name="pangrams" ConfigName="Debug"/>
+      <Project Name="quizenumber" ConfigName="Debug"/>
+      <Project Name="dynamicarraypointer" ConfigName="Debug"/>
+      <Project Name="evenodd" ConfigName="Debug"/>
+      <Project Name="iwannabethe" ConfigName="Debug"/>
+      <Project Name="israted" ConfigName="Debug"/>
+      <Project Name="olysaandroiden" ConfigName="Debug"/>
+      <Project Name="numbershape" ConfigName="Debug"/>
+      <Project Name="ABrainsPhotos" ConfigName="Debug"/>
+      <Project Name="Dubstep" ConfigName="Debug"/>
+      <Project Name="valeraAndX" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="beautifulMatrix" ConfigName="Release"/>
+      <Project Name="grafity" ConfigName="Release"/>
+      <Project Name="petyaAndstring" ConfigName="Release"/>
+      <Project Name="BoyOrGirl" ConfigName="Release"/>
+      <Project Name="word" ConfigName="Release"/>
+      <Project Name="magnets" ConfigName="Release"/>
+      <Project Name="SerejaDima" ConfigName="Release"/>
+      <Project Name="StonesOnTheTable" ConfigName="Release"/>
+      <Project Name="policeofficer" ConfigName="Release"/>
+      <Project Name="blacksquare" ConfigName="Release"/>
+      <Project Name="nanightmusem" ConfigName="Release"/>
+      <Project Name="anight" ConfigName="Release"/>
+      <Project Name="games" ConfigName="Release"/>
+      <Project Name="Bbuttons" ConfigName="Release"/>
+      <Project Name="buyashovel" ConfigName="Release"/>
+      <Project Name="bestfrindofman" ConfigName="Release"/>
+      <Project Name="moneymoney" ConfigName="Release"/>
+      <Project Name="sortthem" ConfigName="Release"/>
+      <Project Name="alibaba" ConfigName="Release"/>
+      <Project Name="powernumbertwo" ConfigName="Release"/>
+      <Project Name="helppoppy" ConfigName="Release"/>
+      <Project Name="plusminus" ConfigName="Release"/>
+      <Project Name="Staircase" ConfigName="Release"/>
+      <Project Name="MinandMax" ConfigName="Release"/>
+      <Project Name="inhourse" ConfigName="Release"/>
+      <Project Name="scoring" ConfigName="Release"/>
+      <Project Name="jusier" ConfigName="Release"/>
+      <Project Name="CarrotCakes" ConfigName="Release"/>
+      <Project Name="text" ConfigName="Release"/>
+      <Project Name="waytoolongwords" ConfigName="Release"/>
+      <Project Name="set" ConfigName="Release"/>
+      <Project Name="stack" ConfigName="Release"/>
+      <Project Name="pointer" ConfigName="Release"/>
+      <Project Name="marlineandaddress" ConfigName="Release"/>
+      <Project Name="guesswhat" ConfigName="Release"/>
+      <Project Name="canides" ConfigName="Release"/>
+      <Project Name="password" ConfigName="Release"/>
+      <Project Name="intersetingshapes" ConfigName="Release"/>
+      <Project Name="marbels" ConfigName="Release"/>
+      <Project Name="compareing" ConfigName="Release"/>
+      <Project Name="citesmails" ConfigName="Release"/>
+      <Project Name="mohamoudandlongestuncommon" ConfigName="Release"/>
+      <Project Name="oathnightwatch" ConfigName="Release"/>
+      <Project Name="pangrams" ConfigName="Release"/>
+      <Project Name="quizenumber" ConfigName="Release"/>
+      <Project Name="dynamicarraypointer" ConfigName="Release"/>
+      <Project Name="evenodd" ConfigName="Release"/>
+      <Project Name="iwannabethe" ConfigName="Release"/>
+      <Project Name="israted" ConfigName="Release"/>
+      <Project Name="olysaandroiden" ConfigName="Release"/>
+      <Project Name="numbershape" ConfigName="Release"/>
+      <Project Name="ABrainsPhotos" ConfigName="Release"/>
+      <Project Name="Dubstep" ConfigName="Release"/>
+      <Project Name="valeraAndX" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

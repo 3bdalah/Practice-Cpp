@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="ClassOPP" Database="" Version="10.0.0">
+  <Project Name="start" Path="start/start.project" Active="No"/>
+  <Project Name="TV" Path="TV/TV.project" Active="No"/>
+  <Project Name="passvalue" Path="passvalue/passvalue.project" Active="No"/>
+  <Project Name="passingbyrefrence" Path="passingbyrefrence/passingbyrefrence.project" Active="No"/>
+  <Project Name="printout" Path="printout/printout.project" Active="No"/>
+  <Project Name="arrayobjects" Path="arrayobjects/arrayobjects.project" Active="No"/>
+  <Project Name="circlewidthstaticdata" Path="circlewidthstaticdata/circlewidthstaticdata.project" Active="No"/>
+  <Project Name="ibm" Path="ibm/ibm.project" Active="No"/>
+  <Project Name="sortstring" Path="sortstring/sortstring.project" Active="No"/>
+  <Project Name="countstring" Path="countstring/countstring.project" Active="No"/>
+  <Project Name="static" Path="static/static.project" Active="No"/>
+  <Project Name="constantobject" Path="constantobject/constantobject.project" Active="No"/>
+  <Project Name="friend" Path="friend/friend.project" Active="No"/>
+  <Project Name="areasquare" Path="areasquare/areasquare.project" Active="No"/>
+  <Project Name="this" Path="this/this.project" Active="No"/>
+  <Project Name="operatorover" Path="operatorover/operatorover.project" Active="No"/>
+  <Project Name="inhirtance" Path="inhirtancepartone/inhirtancepartone.project" Active="No"/>
+  <Project Name="polmarphism" Path="polmarphism/polmarphism.project" Active="No"/>
+  <Project Name="templatefunction" Path="templatefunction/templatefunction.project" Active="No"/>
+  <Project Name="calculator" Path="calculator/calculator.project" Active="No"/>
+  <Project Name="functiontemplate" Path="functiontemplate/functiontemplate.project" Active="No"/>
+  <Project Name="exceptionpartone" Path="exceptionpartone/exceptionpartone.project" Active="No"/>
+  <Project Name="testdatatype" Path="testdatatype/testdatatype.project" Active="No"/>
+  <Project Name="iofile" Path="iofile/iofile.project" Active="No"/>
+  <Project Name="Account" Path="createidea/createidea.project" Active="No"/>
+  <Project Name="MarlinAndAddress" Path="MarlinAndAddress/MarlinAndAddress.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="start" ConfigName="Debug"/>
+      <Project Name="TV" ConfigName="Debug"/>
+      <Project Name="passvalue" ConfigName="Debug"/>
+      <Project Name="passingbyrefrence" ConfigName="Debug"/>
+      <Project Name="printout" ConfigName="Debug"/>
+      <Project Name="arrayobjects" ConfigName="Debug"/>
+      <Project Name="circlewidthstaticdata" ConfigName="Debug"/>
+      <Project Name="ibm" ConfigName="Debug"/>
+      <Project Name="sortstring" ConfigName="Debug"/>
+      <Project Name="countstring" ConfigName="Debug"/>
+      <Project Name="static" ConfigName="Debug"/>
+      <Project Name="constantobject" ConfigName="Debug"/>
+      <Project Name="friend" ConfigName="Debug"/>
+      <Project Name="areasquare" ConfigName="Debug"/>
+      <Project Name="this" ConfigName="Debug"/>
+      <Project Name="operatorover" ConfigName="Debug"/>
+      <Project Name="inhirtance" ConfigName="Debug"/>
+      <Project Name="polmarphism" ConfigName="Debug"/>
+      <Project Name="templatefunction" ConfigName="Debug"/>
+      <Project Name="calculator" ConfigName="Debug"/>
+      <Project Name="functiontemplate" ConfigName="Debug"/>
+      <Project Name="exceptionpartone" ConfigName="Debug"/>
+      <Project Name="testdatatype" ConfigName="Debug"/>
+      <Project Name="iofile" ConfigName="Debug"/>
+      <Project Name="Account" ConfigName="Debug"/>
+      <Project Name="MarlinAndAddress" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="start" ConfigName="Release"/>
+      <Project Name="TV" ConfigName="Release"/>
+      <Project Name="passvalue" ConfigName="Release"/>
+      <Project Name="passingbyrefrence" ConfigName="Release"/>
+      <Project Name="printout" ConfigName="Release"/>
+      <Project Name="arrayobjects" ConfigName="Release"/>
+      <Project Name="circlewidthstaticdata" ConfigName="Release"/>
+      <Project Name="ibm" ConfigName="Release"/>
+      <Project Name="sortstring" ConfigName="Release"/>
+      <Project Name="countstring" ConfigName="Release"/>
+      <Project Name="static" ConfigName="Release"/>
+      <Project Name="constantobject" ConfigName="Release"/>
+      <Project Name="friend" ConfigName="Release"/>
+      <Project Name="areasquare" ConfigName="Release"/>
+      <Project Name="this" ConfigName="Release"/>
+      <Project Name="operatorover" ConfigName="Release"/>
+      <Project Name="inhirtance" ConfigName="Release"/>
+      <Project Name="polmarphism" ConfigName="Release"/>
+      <Project Name="templatefunction" ConfigName="Release"/>
+      <Project Name="calculator" ConfigName="Release"/>
+      <Project Name="functiontemplate" ConfigName="Release"/>
+      <Project Name="exceptionpartone" ConfigName="Release"/>
+      <Project Name="testdatatype" ConfigName="Release"/>
+      <Project Name="iofile" ConfigName="Release"/>
+      <Project Name="Account" ConfigName="Release"/>
+      <Project Name="MarlinAndAddress" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
